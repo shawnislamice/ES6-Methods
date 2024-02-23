@@ -1,0 +1,11 @@
+***Strongly types or Strictly types programing language
+
+***Er mane holo variable er type agei bole dewa hoy
+int a=5
+float b=5.5
+
+****Javascript sehkhetre Dynamic type language 
+const a=5
+const b="Shawon Islam"
+const ages=[45,65,48]
+const student=[{}]
